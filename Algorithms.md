@@ -39,7 +39,7 @@ __[ALGORITHMS and Data Structures](https://en.wikipedia.org/wiki/Category:Algori
 + [HClust.jl](https://github.com/davidavdav/HClust.jl) :: Hierarchical Clustering for Julia, similar to R's hclust().
 
 ### Quantum
-+ [AdiaRoll.jl](https://github.com/Roger-luo/AdiaRoll.jl) :: An Adiabatic Computation Simulator for quantum computation.
++ [AdiaComput.jl](https://github.com/Roger-luo/AdiaComput.jl) :: A tweakable quantum adiabatic computation simulator.
 + [Hadamard.jl](https://github.com/stevengj/Hadamard.jl) :: Fast multidimensional Walsh-Hadamard transforms.
 
 ### Pattern Matching
